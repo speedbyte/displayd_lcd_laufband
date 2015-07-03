@@ -1,0 +1,2 @@
+cp /examples/test.dat /DisplayD/build/src/
+./displayd display.lua

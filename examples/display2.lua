@@ -1,0 +1,1 @@
+diSendText("Hallo Welt!");
