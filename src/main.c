@@ -20,10 +20,10 @@
 #include "displayfunc.h"
 #include "script.h"
 
-int main (int argc, char * argv[])
+int main2 (int argc, char * argv[])
 {
 	if (argc != 2) return EXIT_FAILURE;
-	int serial = sOpenDisplay("/dev/ttySAC0");
+	int serial = sOpenDisplay("/dev/ttyUSB0");
 
 	runScript(argv[1]);
 	

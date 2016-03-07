@@ -1,1 +1,0 @@
-diSendText("Hallo Welt!");
