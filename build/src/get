@@ -1,2 +1,0 @@
-wget -r --ftp-user=root --ftp-password=nadineschnuggele  --directory-prefix=/display/ ftp://jargames.is-a-geek.com
-cp ftptest files/ftptest

@@ -1,2 +1,0 @@
-diInvert();
-diSend();

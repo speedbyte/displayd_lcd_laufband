@@ -3,3 +3,5 @@
 *.cmake
 *.make
 CMakeFiles/*
+build/*
+src/CMakeFiles

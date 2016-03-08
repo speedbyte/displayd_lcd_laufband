@@ -1,1 +1,0 @@
-/usr/bin/gcc     CMakeFiles/displayd.dir/main.c.o CMakeFiles/displayd.dir/display.c.o CMakeFiles/displayd.dir/drawfunc.c.o CMakeFiles/displayd.dir/script.c.o  -o displayd -rdynamic -llua -lm -ldl 
